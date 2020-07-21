@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.jp2
+*.jpg
+*.jpg.aux.xml
