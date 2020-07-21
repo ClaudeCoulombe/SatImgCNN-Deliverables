@@ -1,1 +1,1 @@
-GitHub repo for deliverables - Satellite Imagery CNN projetc
+GitHub repo for deliverables - Satellite Imagery CNN project
