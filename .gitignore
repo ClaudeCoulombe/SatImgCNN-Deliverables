@@ -2,5 +2,5 @@
 *.jp2
 *.jpg
 *.jpg.aux.xml
-*solution*
+*_solution.ipynb
 
